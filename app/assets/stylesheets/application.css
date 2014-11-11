@@ -15,7 +15,15 @@
  */
  body {
  	text-align: center;
+ 	background: #fefefe;
+ 	color: #333;
+ 	font-family: sans-serif;
  }
 img {
 	border-radius: 100%;
+}
+h1 {
+	font-weight: 200;
+	max-width: 500px;
+	margin: 0 auto;
 }
